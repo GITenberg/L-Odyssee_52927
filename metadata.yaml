@@ -1,0 +1,36 @@
+_repo: L-Odyssee_52927
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Calbet, Antoine
+    alias: Calbet, A. (Antoine)
+    birthdate: 1860
+    deathdate: 1944
+    gutenberg_agent_id: '47122'
+    url: http://www.gutenberg.org/2009/agents/47122
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2016-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52927'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic poetry, Greek -- Adaptations'
+- !lcsh 'Odysseus, King of Ithaca (Mythological character) -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: L'Odyssée
+url: http://www.gutenberg.org/ebooks/52927
